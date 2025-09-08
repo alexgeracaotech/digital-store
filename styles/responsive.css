@@ -148,6 +148,7 @@
   }
 
   main {
+    padding: 120px 8% 163px;
     justify-content: space-between;
 
     form {
